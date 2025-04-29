@@ -185,7 +185,7 @@ Project Link: [https://github.com/cs-2201-15/capstone](https://github.com/cs-220
 [license-url]: https://github.com/cs-2201-15/capstone/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
 
-# 📋 Project Modernization Overview: Bendwell App
+# 📋 Project Modernization Overview: Bendwell App 2025
 
 ## 🧠 Goal
 
