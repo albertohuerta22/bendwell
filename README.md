@@ -168,7 +168,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - Samuel Joh - [Github](https://github.com/sem0701) - samueljoh329@gmail.com
 - Alberto Huerta - [Github](https://github.com/albertohuerta22) - albertohuerta22@gmail.com
 
-Project Link: [https://github.com/cs-2201-15/capstone](https://github.com/cs-2201-15/capstone)
+Original Project Link: [https://github.com/cs-2201-15/capstone](https://github.com/cs-2201-15/capstone)
+
+Updating Soon (see action plan below!): [https://github.com/albertohuerta/bendwell](https://github.com/albertohuerta/bendwell)
+
+Website: [https://bendwell2025.netlify.app/](https://bendwell2025.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
